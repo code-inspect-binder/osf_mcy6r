@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/mcy6r_src/BeerGogglesorLiquidCourageMaterials")' >> /home/jovyan/.Rprofile
